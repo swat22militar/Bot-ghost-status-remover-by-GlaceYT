@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["𝑳𝟑𝑮𝟑𝑵𝑫𝒁 support bot","Best discord bot","Bot in best smoq server"];
+const statusMessages = ["𝑳𝟑𝑮𝟑𝑵𝑫𝒁 ON TOP","Join with discord.gg/l3z"];
 
 
 let currentIndex = 0;
